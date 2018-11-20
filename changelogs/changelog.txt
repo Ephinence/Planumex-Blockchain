@@ -1,0 +1,1 @@
+11/19/2018 v1.11.13 - Initial Release and Hard Fork of the NXT Blockchain into the Planumex Blockchain (PEX). A total of 100,000,000 PEX has been airdropped to existing holders of NXT in poroprtion to their balance at block height: 2112952.

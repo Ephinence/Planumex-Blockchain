@@ -1,0 +1,36 @@
+<shortcuts>
+	<skipIfNotSupported/>
+	<defaultCurrentUser/>
+	<programGroup defaultName="Planumex" location="startMenu"/>
+	<shortcut
+		name="Planumex Server"
+		target="$INSTALL_PATH\Planumex.exe"
+		commandLine=""
+		workingDirectory="$INSTALL_PATH"
+        description="Start Planumex server"
+		iconFile="$INSTALL_PATH\html\www\favicon.ico"
+        iconIndex="0"
+        initialState="normal"
+        programGroup="yes"
+		desktop="yes"
+        applications="no"
+        startMenu="no"
+		startup="no"
+		runAsAdministrator="true">
+	</shortcut>	
+	<shortcut
+		name="Planumex Wallet"
+		target="http://localhost:1358/index.html"
+		commandLine=""
+		workingDirectory="$INSTALL_PATH"
+        description="Launch Planumex wallet in browser"
+		iconFile="$INSTALL_PATH\html\www\favicon.ico"
+        iconIndex="0"
+        initialState="normal"
+        programGroup="yes"
+		desktop="yes"
+        applications="no"
+        startMenu="no"
+		startup="no">
+	</shortcut>	
+</shortcuts>
