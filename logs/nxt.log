@@ -1,0 +1,240 @@
+2018-11-18 23:40:02 INFO: nxt.enableStackTraces = "true"
+2018-11-18 23:40:02 INFO: nxt.enableLogTraceback = "false"
+2018-11-18 23:40:02 INFO: logging enabled
+2018-11-18 23:40:02 INFO: socksProxyHost not defined
+2018-11-18 23:40:02 INFO: socksProxyPort not defined
+2018-11-18 23:40:02 FINE: java.version = 1.8.0_191
+2018-11-18 23:40:02 FINE: java.vm.version = 25.191-b12
+2018-11-18 23:40:02 FINE: java.vm.name = Java HotSpot(TM) 64-Bit Server VM
+2018-11-18 23:40:02 FINE: java.vendor = Oracle Corporation
+2018-11-18 23:40:02 FINE: java.vm.vendor = Oracle Corporation
+2018-11-18 23:40:02 FINE: java.home = /usr/lib/jvm/java-8-oracle/jre
+2018-11-18 23:40:02 FINE: java.library.path = /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+2018-11-18 23:40:02 FINE: java.class.path = classes:lib/jetty-security-9.3.22.v20171030.jar:lib/websocket-server-9.3.22.v20171030.jar:lib/jetty-server-9.3.22.v20171030.jar:lib/slf4j-jdk14-1.7.22.jar:lib/jetty-proxy-9.3.22.v20171030.jar:lib/jetty-util-9.3.22.v20171030.jar:lib/jetty-servlet-9.3.22.v20171030.jar:lib/websocket-client-9.3.22.v20171030.jar:lib/websocket-common-9.3.22.v20171030.jar:lib/lucene-queries-5.5.5.jar:lib/websocket-api-9.3.22.v20171030.jar:lib/javax.servlet-api-3.1.0.jar:lib/lucene-backward-codecs-5.5.5.jar:lib/websocket-servlet-9.3.22.v20171030.jar:lib/weupnp-0.1.4.jar:lib/lucene-core-5.5.5.jar:lib/core-3.3.0.jar:lib/slf4j-api-1.7.22.jar:lib/jetty-io-9.3.22.v20171030.jar:lib/jetty-http-9.3.22.v20171030.jar:lib/lucene-analyzers-common-5.5.5.jar:lib/jetty-continuation-9.3.22.v20171030.jar:lib/lucene-queryparser-5.5.5.jar:lib/jetty-client-9.3.22.v20171030.jar:lib/jetty-servlets-9.3.22.v20171030.jar:lib/tika-core-1.13.jar:lib/tika-parsers-1.13.jar:lib/javase-3.3.0.jar:lib/h2-1.4.196.jar:lib/bcprov-jdk15on-159.jar:lib/json-simple-1.1.1.jar:conf:addons/classes:addons/lib/*
+2018-11-18 23:40:02 FINE: os.arch = amd64
+2018-11-18 23:40:02 FINE: sun.arch.data.model = 64
+2018-11-18 23:40:02 FINE: os.name = Linux
+2018-11-18 23:40:02 FINE: file.encoding = UTF-8
+2018-11-18 23:40:02 FINE: java.security.policy = null
+2018-11-18 23:40:02 FINE: java.security.manager = null
+2018-11-18 23:40:02 FINE: nxt.runtime.mode = null
+2018-11-18 23:40:02 FINE: nxt.runtime.dirProvider = null
+2018-11-18 23:40:02 FINE: availableProcessors = 8
+2018-11-18 23:40:02 FINE: maxMemory = 3733979136
+2018-11-18 23:40:02 FINE: processId = 5058
+2018-11-18 23:40:02 INFO: nxt.isTestnet = "false"
+2018-11-18 23:40:02 INFO: nxt.isOffline = "false"
+2018-11-18 23:40:02 INFO: nxt.isLightClient = "false"
+2018-11-18 23:40:02 INFO: nxt.customLoginWarning not defined
+2018-11-18 23:40:02 INFO: nxt.maxNumberOfTransactions not defined or not numeric, using default value 255
+2018-11-18 23:40:02 INFO: nxt.maxRollback = "800"
+2018-11-18 23:40:02 INFO: nxt.forgingDelay = "20"
+2018-11-18 23:40:02 INFO: nxt.forgingSpeedup = "3"
+2018-11-18 23:40:02 INFO: nxt.batchCommitSize = "100"
+2018-11-18 23:40:02 INFO: nxt.maxPrunableLifetime = "7776000"
+2018-11-18 23:40:02 INFO: nxt.includeExpiredPrunable = "true"
+2018-11-18 23:40:02 INFO: nxt.correctInvalidFees = "false"
+2018-11-18 23:40:02 INFO: nxt.statementLogThreshold = "10000"
+2018-11-18 23:40:02 INFO: nxt.transactionLogThreshold = "15000"
+2018-11-18 23:40:02 INFO: nxt.transactionLogInterval = "15"
+2018-11-18 23:40:02 INFO: nxt.dbCacheKB = "0"
+2018-11-18 23:40:02 INFO: nxt.dbUrl not defined
+2018-11-18 23:40:02 INFO: nxt.dbType = "h2"
+2018-11-18 23:40:02 INFO: nxt.dbDir = "./nxt_db/nxt"
+2018-11-18 23:40:02 INFO: nxt.dbParams = "DB_CLOSE_ON_EXIT=FALSE;MVCC=TRUE;MV_STORE=FALSE"
+2018-11-18 23:40:02 INFO: nxt.dbUsername = "sa"
+2018-11-18 23:40:02 INFO: nxt.dbPassword = "{not logged}"
+2018-11-18 23:40:02 INFO: nxt.maxDbConnections = "30"
+2018-11-18 23:40:02 INFO: nxt.dbLoginTimeout = "70"
+2018-11-18 23:40:02 INFO: nxt.dbDefaultLockTimeout = "60"
+2018-11-18 23:40:02 INFO: nxt.dbMaxMemoryRows = "1000000"
+2018-11-18 23:40:02 FINE: Database jdbc url set to jdbc:h2:./nxt_db/nxt;DB_CLOSE_ON_EXIT=FALSE;MVCC=TRUE;MV_STORE=FALSE;CACHE_SIZE=262144 username sa
+2018-11-18 23:40:02 INFO: nxt.useStrongSecureRandom = "false"
+2018-11-18 23:40:03 FINE: Database connection pool current size: 1
+2018-11-18 23:40:03 INFO: Database update may take a while if needed, current db version 237...
+2018-11-18 23:40:03 INFO: nxt.enableTransactionRebroadcasting = "true"
+2018-11-18 23:40:03 INFO: nxt.testUnconfirmedTransactions not defined, using default false
+2018-11-18 23:40:03 INFO: nxt.maxUnconfirmedTransactions = "2000"
+2018-11-18 23:40:03 INFO: nxt.trimDerivedTables = "true"
+2018-11-18 23:40:03 INFO: nxt.numberOfForkConfirmations = "0"
+2018-11-18 23:40:03 INFO: nxt.simulateEndlessDownload not defined, using default false
+2018-11-18 23:40:03 INFO: nxt.trimFrequency = "1000"
+2018-11-18 23:40:03 INFO: nxt.disableGetMoreBlocksThread not defined, using default false
+2018-11-18 23:40:03 INFO: nxt.disableProcessTransactionsThread not defined, using default false
+2018-11-18 23:40:03 INFO: nxt.disableRebroadcastTransactionsThread not defined, using default false
+2018-11-18 23:40:03 INFO: nxt.disableRemoveUnconfirmedTransactionsThread not defined, using default false
+2018-11-18 23:40:03 INFO: nxt.disableProcessWaitingTransactionsThread not defined, using default false
+2018-11-18 23:40:03 INFO: nxt.enablePublicKeyCache = "true"
+2018-11-18 23:40:03 INFO: nxt.ledgerTrimKeep = "30000"
+2018-11-18 23:40:03 INFO: nxt.ledgerAccounts = "*"
+2018-11-18 23:40:03 INFO: Account ledger is tracking all accounts
+2018-11-18 23:40:03 INFO: nxt.ledgerLogUnconfirmed = "2"
+2018-11-18 23:40:03 INFO: nxt.processPolls = "true"
+2018-11-18 23:40:03 INFO: nxt.deleteFinishedShufflings = "false"
+2018-11-18 23:40:03 INFO: nxt.maxPeerRequestSize not defined or not numeric, using default value 1048576
+2018-11-18 23:40:03 INFO: nxt.maxPeerResponseSize not defined or not numeric, using default value 1048576
+2018-11-18 23:40:03 INFO: nxt.maxPeerMessageSize not defined or not numeric, using default value 10485760
+2018-11-18 23:40:03 INFO: nxt.hideErrorDetails = "false"
+2018-11-18 23:40:03 INFO: nxt.myPlatform not defined
+2018-11-18 23:40:03 INFO: nxt.myAddress not defined
+2018-11-18 23:40:03 INFO: nxt.peerServerPort = "7156"
+2018-11-18 23:40:03 INFO: nxt.shareMyAddress = "true"
+2018-11-18 23:40:03 INFO: nxt.enablePeerUPnP = "true"
+2018-11-18 23:40:03 INFO: nxt.myHallmark not defined
+2018-11-18 23:40:03 INFO: nxt.adminPassword not defined
+2018-11-18 23:40:03 INFO: nxt.maxAPIRecords = "100"
+2018-11-18 23:40:03 INFO: nxt.enableAPIUPnP = "false"
+2018-11-18 23:40:03 INFO: nxt.apiServerIdleTimeout = "30000"
+2018-11-18 23:40:03 INFO: nxt.apiServerCORS = "true"
+2018-11-18 23:40:03 INFO: nxt.forwardedForHeader not defined
+2018-11-18 23:40:03 INFO: nxt.disabledAPIs not defined
+2018-11-18 23:40:03 INFO: nxt.disabledAPITags not defined
+2018-11-18 23:40:03 INFO: nxt.allowedBotHosts = "127.0.0.1; localhost; [0:0:0:0:0:0:0:1];"
+2018-11-18 23:40:03 INFO: nxt.enableAPIServer = "true"
+2018-11-18 23:40:03 INFO: nxt.apiServerPort = "1358"
+2018-11-18 23:40:03 INFO: nxt.apiServerSSLPort = "7876"
+2018-11-18 23:40:03 INFO: nxt.apiServerHost = "127.0.0.1"
+2018-11-18 23:40:03 INFO: nxt.disableAdminPassword = "false"
+2018-11-18 23:40:03 INFO: nxt.apiSSL = "false"
+2018-11-18 23:40:03 INFO: API server using HTTP port 1358
+2018-11-18 23:40:03 INFO: nxt.apiResourceBase = "./html/www"
+2018-11-18 23:40:03 INFO: nxt.apiWelcomeFile = "index.html"
+2018-11-18 23:40:03 INFO: nxt.javadocResourceBase = "./html/doc"
+2018-11-18 23:40:03 INFO: nxt.maxUploadFileSize not defined or not numeric, using default value 0
+2018-11-18 23:40:03 INFO: nxt.maxUploadFileSize not defined or not numeric, using default value 0
+2018-11-18 23:40:03 INFO: nxt.enableAPIServerGZIPFilter not defined, using default false
+2018-11-18 23:40:03 INFO: nxt.apiFrameOptionsSameOrigin = "true"
+2018-11-18 23:40:03 FINE: My peer info:
+{"application":"Planumex","services":"0","version":"1.11.13","platform":"Linux amd64","shareAddress":true}
+2018-11-18 23:40:03 INFO: nxt.defaultPeers = "13.56.229.108"
+2018-11-18 23:40:03 INFO: nxt.wellKnownPeers not defined
+2018-11-18 23:40:03 INFO: nxt.knownBlacklistedPeers not defined
+2018-11-18 23:40:03 INFO: nxt.maxNumberOfInboundConnections = "2000"
+2018-11-18 23:40:03 INFO: nxt.maxNumberOfOutboundConnections = "50"
+2018-11-18 23:40:03 INFO: nxt.maxNumberOfConnectedPublicPeers = "20"
+2018-11-18 23:40:03 INFO: nxt.maxNumberOfKnownPeers = "2000"
+2018-11-18 23:40:03 INFO: nxt.minNumberOfKnownPeers = "1000"
+2018-11-18 23:40:03 INFO: nxt.connectTimeout = "10000"
+2018-11-18 23:40:03 INFO: nxt.readTimeout = "20000"
+2018-11-18 23:40:03 INFO: nxt.enableHallmarkProtection = "true"
+2018-11-18 23:40:03 INFO: nxt.pushThreshold = "0"
+2018-11-18 23:40:03 INFO: nxt.pullThreshold = "0"
+2018-11-18 23:40:03 INFO: nxt.useWebSockets = "true"
+2018-11-18 23:40:03 INFO: nxt.webSocketIdleTimeout = "900000"
+2018-11-18 23:40:03 INFO: nxt.enablePeerServerGZIPFilter = "true"
+2018-11-18 23:40:03 INFO: nxt.blacklistingPeriod = "600000"
+2018-11-18 23:40:03 INFO: nxt.communicationLoggingMask = "0"
+2018-11-18 23:40:03 INFO: nxt.sendToPeersLimit = "10"
+2018-11-18 23:40:03 INFO: nxt.usePeersDb = "true"
+2018-11-18 23:40:03 INFO: nxt.savePeers = "true"
+2018-11-18 23:40:03 INFO: nxt.getMorePeers = "true"
+2018-11-18 23:40:03 INFO: nxt.cjdnsOnly = "false"
+2018-11-18 23:40:03 INFO: nxt.ignorePeerAnnouncedAddress = "false"
+2018-11-18 23:40:03 INFO: nxt.disablePeerConnectingThread not defined, using default false
+2018-11-18 23:40:03 INFO: nxt.disablePeerUnBlacklistingThread not defined, using default false
+2018-11-18 23:40:03 INFO: nxt.disableGetMorePeersThread not defined, using default false
+2018-11-18 23:40:03 INFO: nxt.peerServerHost = "0.0.0.0"
+2018-11-18 23:40:03 INFO: nxt.peerServerIdleTimeout = "30000"
+2018-11-18 23:40:03 INFO: nxt.enablePeerServerDoSFilter = "true"
+2018-11-18 23:40:03 INFO: nxt.peerServerDoSFilter.maxRequestsPerSec = "30"
+2018-11-18 23:40:03 INFO: nxt.peerServerDoSFilter.delayMs = "1000"
+2018-11-18 23:40:03 INFO: nxt.peerServerDoSFilter.maxRequestMs = "300000"
+2018-11-18 23:40:03 INFO: nxt.enableAPIProxy = "true"
+2018-11-18 23:40:03 INFO: nxt.apiProxyBlacklistingPeriod = "1800000"
+2018-11-18 23:40:03 INFO: nxt.forceAPIProxyServerURL not defined
+2018-11-18 23:40:03 INFO: nxt.disableAPIProxyPeersUpdateThread not defined, using default false
+2018-11-18 23:40:03 INFO: nxt.maxNumberOfForgers = "100"
+2018-11-18 23:40:03 INFO: nxt.enableFakeForging not defined, using default false
+2018-11-18 23:40:03 INFO: nxt.disableGenerateBlocksThread not defined, using default false
+2018-11-18 23:40:03 INFO: nxt.addOns not defined
+2018-11-18 23:40:03 INFO: nxt.debugTraceQuote = """
+2018-11-18 23:40:03 INFO: nxt.debugTraceSeparator = "	"
+2018-11-18 23:40:03 INFO: nxt.debugLogUnconfirmed = "false"
+2018-11-18 23:40:03 INFO: nxt.debugTraceAccounts not defined
+2018-11-18 23:40:03 INFO: nxt.debugTraceLog = "nxt-trace.csv"
+2018-11-18 23:40:03 FINE: Running 2 tasks...
+2018-11-18 23:40:03 FINE: Loading known peers from the database...
+2018-11-18 23:40:03 INFO: Genesis block already in database
+2018-11-18 23:40:03 FINE: Database connection pool current size: 2
+2018-11-18 23:40:03 FINE: Rollback from block 16308156613069897450 at height 23 to 16308156613069897450 at 23
+2018-11-18 23:40:03 FINE: Average database transaction time is 0.279 seconds
+2018-11-18 23:40:03 INFO: Last block height: 23
+2018-11-18 23:40:03 INFO: nxt.forceScan = "false"
+2018-11-18 23:40:03 FINE: Running 2 final tasks...
+2018-11-18 23:40:03 INFO: Looking for UPnP gateway device...
+2018-11-18 23:40:03 INFO: nxt.upnpGatewayTimeout not defined or not numeric, using default value 7000
+2018-11-18 23:40:03 INFO: nxt.apiServerEnforcePOST = "true"
+2018-11-18 23:40:03 INFO: nxt.upnpDiscoverTimeout not defined or not numeric, using default value 3000
+2018-11-18 23:40:04 INFO: Started API server at 127.0.0.1:1358
+2018-11-18 23:40:13 FINE: There are no UPnP gateway devices
+2018-11-18 23:40:13 INFO: Started peer networking server at 0.0.0.0:7156
+2018-11-18 23:40:13 FINE: Starting 10 background jobs
+2018-11-18 23:40:13 FINE: Starting 2 delayed tasks
+2018-11-18 23:40:13 FINE: Known peers: 1
+2018-11-18 23:40:13 INFO: Initialization took 10 seconds
+2018-11-18 23:40:13 INFO: Planumex server 1.11.13 started successfully.
+2018-11-18 23:40:13 INFO: Copyright © 2013-2016 The Nxt Core Developers.
+2018-11-18 23:40:13 INFO: Copyright © 2016-2018 Jelurida IP B.V.
+2018-11-18 23:40:13 INFO: Distributed under the Jelurida Public License version 1.1 for the Nxt Public Blockchain Platform, with ABSOLUTELY NO WARRANTY.
+2018-11-18 23:40:13 INFO: Client UI is at http://localhost:1358/index.html
+2018-11-18 23:41:00 FINE: Database connection pool current size: 3
+2018-11-18 23:41:00 FINE: Forger 5298492525989476629 deadline 37 hit 42210 started
+2018-11-18 23:41:00 FINE: Forger 5298492525989476629 deadline 37 hit 42210
+2018-11-18 23:41:19 FINE: Account 5298492525989476629 generated block 15819874065779966304 at height 25 timestamp 42211 fee 0.0
+2018-11-18 23:41:39 FINE: Forger 5298492525989476629 deadline 79 hit 42290
+2018-11-18 23:42:21 FINE: Forger 15744910535917569866 deadline 247 hit 42458 started
+2018-11-18 23:42:21 FINE: Forger 5298492525989476629 deadline 79 hit 42290
+2018-11-18 23:42:39 FINE: Account 5298492525989476629 generated block 13707557701505609200 at height 26 timestamp 42291 fee 0.0
+2018-11-18 23:42:44 FINE: Forger 5298492525989476629 deadline 64 hit 42355
+2018-11-18 23:43:44 FINE: Account 5298492525989476629 generated block 7343667626850495625 at height 27 timestamp 42356 fee 0.0
+2018-11-18 23:43:45 FINE: Forger 5298492525989476629 deadline 25 hit 42381
+2018-11-18 23:44:10 FINE: Account 5298492525989476629 generated block 14798120455252443961 at height 28 timestamp 42382 fee 0.0
+2018-11-18 23:44:11 FINE: Forger 5298492525989476629 deadline 35 hit 42417
+2018-11-18 23:44:46 FINE: Account 5298492525989476629 generated block 13301097836154245670 at height 29 timestamp 42418 fee 0.0
+2018-11-18 23:45:24 FINE: Forger 5298492525989476629 deadline 97 hit 42515
+2018-11-18 23:46:24 FINE: Account 5298492525989476629 generated block 10351491553914461161 at height 30 timestamp 42516 fee 0.0
+2018-11-18 23:46:25 FINE: Forger 5298492525989476629 deadline 47 hit 42563
+2018-11-18 23:47:02 FINE: Database connection pool current size: 4
+2018-11-18 23:47:02 FINE: Database connection pool current size: 5
+2018-11-18 23:47:02 FINE: Forger 15744910535917569866 deadline 764 hit 43280 is already forging
+2018-11-18 23:47:02 FINE: Forger 5298492525989476629 deadline 47 hit 42563
+2018-11-18 23:47:12 FINE: Account 5298492525989476629 generated block 18409044344557438922 at height 31 timestamp 42564 fee 0.0
+2018-11-18 23:47:13 FINE: Forger 5298492525989476629 deadline 47 hit 42611
+2018-11-18 23:48:00 FINE: Account 5298492525989476629 generated block 17539291896738830355 at height 32 timestamp 42612 fee 0.0
+2018-11-18 23:48:07 FINE: Forger 5298492525989476629 deadline 66 hit 42678
+2018-11-18 23:49:07 FINE: Account 5298492525989476629 generated block 780453986584533806 at height 33 timestamp 42679 fee 0.0
+2018-11-18 23:49:08 FINE: Forger 5298492525989476629 deadline 51 hit 42730
+2018-11-18 23:49:59 FINE: Account 5298492525989476629 generated block 2515856544231547183 at height 34 timestamp 42731 fee 0.0
+2018-11-18 23:50:53 FINE: Forger 5298492525989476629 deadline 113 hit 42844
+2018-11-18 23:51:53 FINE: Account 5298492525989476629 generated block 14699904608156671327 at height 35 timestamp 42845 fee 0.0
+2018-11-18 23:52:01 FINE: Forger 5298492525989476629 deadline 67 hit 42912
+2018-11-18 23:53:01 FINE: Account 5298492525989476629 generated block 12848984533229568935 at height 36 timestamp 42913 fee 0.0
+2018-11-18 23:53:02 FINE: Forger 5298492525989476629 deadline 52 hit 42965
+2018-11-18 23:53:54 FINE: Account 5298492525989476629 generated block 12833984882705568849 at height 37 timestamp 42966 fee 0.0
+2018-11-18 23:53:55 FINE: Forger 5298492525989476629 deadline 20 hit 42986
+2018-11-18 23:54:15 FINE: Account 5298492525989476629 generated block 730894680597846682 at height 38 timestamp 42987 fee 0.0
+2018-11-18 23:54:21 FINE: Forger 5298492525989476629 deadline 65 hit 43052
+2018-11-18 23:55:21 FINE: Average database transaction time is 0.005 seconds
+2018-11-18 23:55:21 FINE: Account 5298492525989476629 generated block 10796330918293571795 at height 39 timestamp 43053 fee 0.0
+2018-11-18 23:55:22 FINE: Forger 5298492525989476629 deadline 11 hit 43064
+2018-11-18 23:55:33 FINE: Account 5298492525989476629 generated block 5140922214383797341 at height 40 timestamp 43065 fee 0.0
+2018-11-18 23:55:34 FINE: Forger 5298492525989476629 deadline 52 hit 43117
+2018-11-18 23:56:26 FINE: Account 5298492525989476629 generated block 17229727018908126463 at height 41 timestamp 43118 fee 0.0
+2018-11-18 23:56:37 FINE: Forger 5298492525989476629 deadline 70 hit 43188
+2018-11-18 23:57:37 FINE: Account 5298492525989476629 generated block 13202533235631686303 at height 42 timestamp 43189 fee 0.0
+2018-11-18 23:57:38 FINE: Forger 5298492525989476629 deadline 39 hit 43228
+2018-11-18 23:58:17 FINE: Account 5298492525989476629 generated block 7957764413329416449 at height 43 timestamp 43229 fee 0.0
+2018-11-18 23:58:52 FINE: Forger 5298492525989476629 deadline 94 hit 43323
+2018-11-18 23:59:52 FINE: Account 5298492525989476629 generated block 6924609242115413351 at height 44 timestamp 43324 fee 0.0
+2018-11-18 23:59:53 FINE: Forger 5298492525989476629 deadline 7 hit 43331
+2018-11-19 00:00:00 FINE: Account 5298492525989476629 generated block 14152201155672566812 at height 45 timestamp 43332 fee 0.0
+2018-11-19 00:00:32 INFO: Shutting down...
+2018-11-19 00:00:32 INFO: nxt.maxNumberOfMonitors = "100"
+2018-11-19 00:00:32 INFO: Stopping background jobs...
+2018-11-19 00:00:32 INFO: shutting down scheduledThreadPool
+2018-11-19 00:00:32 INFO: ...Done
+2018-11-19 00:00:32 INFO: shutting down networkService
+2018-11-19 00:00:32 INFO: shutting down sendingService
+2018-11-19 00:00:32 INFO: shutting down peersService
+2018-11-19 00:00:32 INFO: Database shutdown completed
+2018-11-19 00:00:32 INFO: Planumex server 1.11.13 stopped.
