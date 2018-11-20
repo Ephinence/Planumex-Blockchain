@@ -15,6 +15,7 @@ After you have downloaded and installed the required prerequesites, continue by 
 Navigate to the downloaded and extracted folder called Planumed-Blockchain:
 * Windows: Open the run.bat file and connect to the Planumex Blockchain
 * Ubuntu/Debain: Open terminal in folder and run sh ./run.sh
+* MAC: Open terminal in folder and run sh ./run.sh
 
 Next you will be able to login or create a new wallet account. You will be presented with the desktop wallet if runing on windows or you can also view in your favorite browser by visiting: http://localhost:1358/index.html
 
