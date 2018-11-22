@@ -2,6 +2,8 @@
 The Planumex Blockchain and PEX coin is a fork of the NEXT Blockchain and the NXT coin.
 
 ## How to Connect to the Planumex Blockchain
+Need help connecting to the Planumex Blockchain? Watch this helpful tutorial for windows: `https://www.youtube.com/watch?v=UyjzN4TiQ4Q`
+
 First you will need to download and install the following prerequesites:
 
 Download and install the following required programs to connect: 
